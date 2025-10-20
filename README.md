@@ -18,7 +18,8 @@ The task is to complete the backend functionality inside **`app.js`** to perform
 ---
 
 ## 🚀  Installation
-### 1. Install Required Dependencies
+### 1. Replace connection string with your actual mongodb atlas uri
+### 2. Install Required Dependencies
 Open a terminal in the project folder and run:
 ```bash
 npm init -y
